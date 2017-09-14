@@ -24,6 +24,7 @@ h1 {
   padding: 10px;
   font-size: 15px;
   cursor: pointer;
+  text-align: left;
   background-color: #fff;
   border-bottom: 1px solid #ccc;
 }
