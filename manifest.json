@@ -1,0 +1,21 @@
+{
+  "name": "URL 2 QRCode",
+  "version": "0.0.1",
+  "manifest_version": 2,
+  "description": "Transforma as urls para qt code",
+  "homepage_url": "https://github.com/lucasdecastro",
+  "icons": {
+    "16": "icons/icon16.png",
+    "48": "icons/icon48.png",
+    "128": "icons/icon128.png"
+  },
+  "default_locale": "en",
+  "browser_action": {
+    "default_icon": "icons/icon19.png",
+    "default_title": "URL 2 QRCode",
+    "default_popup": "./index.html"
+  },
+  "permissions": [
+    "tabs"
+  ]
+}

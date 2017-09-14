@@ -1,0 +1,67 @@
+html{
+  padding: 0px;
+  margin: 0px;
+}
+
+
+#mainPopup {
+  width: 400px;
+  height: 320px;
+  font-family: Helvetica, Ubuntu, Arial, sans-serif;
+}
+h1 {
+  font-size: 2em;
+}
+
+.tab-item-url{
+  color: #ACACAC;
+  font-size: 12px;
+  margin-top: 8px;
+}
+
+.tab-item{
+  color: #444;
+  padding: 10px;
+  font-size: 15px;
+  cursor: pointer;
+  background-color: #fff;
+  border-bottom: 1px solid #ccc;
+}
+
+.text-overflow{
+  overflow:hidden;
+  white-space:nowrap;
+  text-overflow:ellipsis;
+}
+
+.bottom{
+  padding: 10px;
+  margin-top: 10px;
+}
+
+.button{
+  background: #39c;
+  color: #fff;
+  border: none;
+  padding: 8px;
+  border-radius: 3px;
+}
+.tab-item-seleted{
+  background: #eee;
+}
+
+#tabs{
+  text-align: center;
+}
+
+#tabs img{
+  margin: 30px;
+  display: inline-table!important;
+  box-shadow: 0px 0px 7px #AAA;
+  padding: 10px;
+  border-radius: 3px;
+}
+
+.red{
+  background-color: #dc3545;
+}
